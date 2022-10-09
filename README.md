@@ -1,3 +1,5 @@
+Kod tamemn bana ait değildir Türkçeleştirilmiştir ve sunulmuştur 
+
 Merhabalar Bu konuda sizlere Github Profilinize nasıl görüntüleme sağlarsınız onu Göstereceğim 
 Örnek fotoğraf
 ![image](https://user-images.githubusercontent.com/104297500/194749395-97afb7e8-77dd-4db3-b0c5-65b1f72b5048.png)
