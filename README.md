@@ -1,4 +1,4 @@
-Kod tamemn bana ait değildir Türkçeleştirilmiştir ve sunulmuştur 
+Kod tamem bana ait değildir Türkçeleştirilmiştir ve sunulmuştur 
 
 Merhabalar Bu konuda sizlere Github Profilinize nasıl görüntüleme sağlarsınız onu Göstereceğim 
 Örnek fotoğraf
